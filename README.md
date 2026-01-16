@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Frontend Developer with Reactjs, Redux and Typescript<br>
+A Frontend Developer with Reactjs, React Native, Redux and Typescript<br>
 
 
 ## 🌐 Socials:
